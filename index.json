@@ -1,0 +1,19 @@
+{
+ 
+      "backgroundTextStyle": "dark",
+      "navigationBarBackgroundColor": "#0094ff",
+      "navigationBarTitleText": "哔哩哔哩",
+      "navigationBarTextStyle": "black",
+      "enablePullDownRefresh": true,
+  "usingComponents": 
+  {
+    "mytitle": "../../component/mytitle/mytitle"
+  }
+  
+
+    
+  
+
+
+
+}

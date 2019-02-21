@@ -1,0 +1,27 @@
+.author view{
+
+  font-size: 45rpx;
+}
+.author image{
+   width: 80rpx;
+  height: 80rpx;
+}
+.author text{
+ font-size: 35rpx;
+}
+.writtingtime image{
+   width: 78rpx;
+  height: 78rpx;
+}
+.writtingtime text{
+  font-size: 35rpx;
+}
+
+
+.github image{
+   width: 77rpx;
+  height: 77rpx;
+}
+.github text{
+   font-size: 35rpx;
+}

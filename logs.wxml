@@ -1,0 +1,12 @@
+<view class='author'>
+<image src='../../icon/作者.png'></image>
+<text> : Author by 宏大大 and so on</text>
+</view>
+<view class='writtingtime'>
+<image src='../../icon/时间.png'></image>
+<text> : Writting from 2019.2.19 to the future</text>
+</view>
+<view class='github'>
+<image src='../../icon/github.png'></image>
+<text> : Github:https://github.com/520315(已经git到项目里面)</text>
+</view>
